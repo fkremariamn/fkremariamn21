@@ -158,6 +158,14 @@ A real-time auction app built for Biraro Secondary and Preparatory School, local
 
 ---
 
+## 📈 Commit Activity
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=fkremariamn21&theme=radical)](https://git.io/streak-stats)
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=fkremariamn21&theme=react-dark&hide_border=true)
+
+---
+
 ## 🤝 Let's Connect
 
 I'm always open to conversations about software engineering, system integration, fintech, or potential collaborations. Feel free to reach out through any of the channels below.
