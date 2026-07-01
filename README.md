@@ -151,12 +151,16 @@ A real-time auction app built for Biraro Secondary and Preparatory School, local
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Statistics
 
-[![Your GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=fkremariamn21&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)  
-[![Top Languages](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=fkremariamn21&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+<p align="center">
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=fkremariamn21&show_icons=true&theme=radical&hide_border=true" height="170"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=fkremariamn21&theme=radical&hide_border=true" height="170"/>
+</p>
 
----
+<p align="center">
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=fkremariamn21&layout=compact&theme=radical&hide_border=true"/>
+</p>
 
 ## 🤝 Let's Connect
 
