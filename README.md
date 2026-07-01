@@ -113,7 +113,7 @@ Here are a few projects I'm particularly proud of or that showcase specific skil
 
 ---
 
-### GitHub Stats
+## 📊 GitHub Stats
 
 [![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=fkremariamn21&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)  
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=fkremariamn21&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
